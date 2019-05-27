@@ -1,0 +1,8 @@
+INSERT INTO
+  "tasks" (flag, name, text)
+VALUES
+  (
+    'kek',
+    'Task 1',
+    'Lol?'
+  );

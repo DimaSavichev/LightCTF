@@ -1,0 +1,9 @@
+{
+    "sqltools.connections": [
+        {
+            "database": "D:\\Backend\\lightctf\\database\\database.sqlite",
+            "dialect": "SQLite",
+            "name": "insert"
+        }
+    ]
+}
